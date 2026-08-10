@@ -1,3 +1,1 @@
-# mytools
-# mytoos
 # my tools
